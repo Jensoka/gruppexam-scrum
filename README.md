@@ -5,7 +5,7 @@
 - Utvecklare: [Jennifer, Martin, Tobias, Kristoffer]
 
 ## Tavla
-Länk till Google Kalkylark/Docs:(https://docs.google.com/spreadsheets/d/1f6WZgrHfduhsx54D-oCWRu6-6wcivibhlvwQxI7smKo/edit?gid=0#gid=0)
+[Länk till Google Kalkylark/Docs](https://docs.google.com/spreadsheets/d/1f6WZgrHfduhsx54D-oCWRu6-6wcivibhlvwQxI7smKo/edit?gid=0#gid=0)
 
 ## Sprintmål
 När sprinten är klar ska kaféets startsida visa information rörande cafeet relvant för en kund, som menyinformation, priser, wifi, kontaktinformation och aktuella erbjudanden.
