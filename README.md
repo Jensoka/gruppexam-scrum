@@ -1,14 +1,14 @@
-# Kafé Commit — Grupp [nr]
+# Kafé Commit — Grupp [2]
 
 ## Roller
-- Scrum Master: [Namn]
-- Utvecklare: [Alla gruppens namn]
+- Scrum Master: [Jennifer]
+- Utvecklare: [Jennifer, Martin, Tobias, Kristoffer]
 
 ## Tavla
-Länk till Google Kalkylark/Docs: [Klistra in länk här]
+Länk till Google Kalkylark/Docs:(https://docs.google.com/spreadsheets/d/1f6WZgrHfduhsx54D-oCWRu6-6wcivibhlvwQxI7smKo/edit?gid=0#gid=0)
 
 ## Sprintmål
-När sprinten är klar ska kaféets startsida visa …
+När sprinten är klar ska kaféets startsida visa information rörande cafeet relvant för en kund, som menyinformation, priser, wifi, kontaktinformation och aktuella erbjudanden.
 
 ## Daily standups
 ### [Datum 1 - Tisdag]
