@@ -12,11 +12,11 @@ När sprinten är klar ska kaféets startsida visa information rörande cafeet r
 
 ## Daily standups
 ### [Datum 1 - Tisdag]
-- [Namn]: gjort … / gör nu … / hinder …
+- [Namn]: Tobias … / Igår Skrev Tobias Userstories. Tobias har gjort en ny branch till sin första userstory 4, fyllt i funktjonen och väntar på en pull request / Tobias har inga hinder.
 ### [Datum 2 - Onsdag]
-- [Namn]: gjort … / gör nu … / hinder …
+- [Namn]: Kristoffer … / Igår: Skrivit US. Idag: kokat kaffe, klonat repot och ska påbörja user stories, Inga hinder
 ### [Datum 3 - Torsdag]
-- [Namn]: gjort … / gör nu … / hinder …
+- [Namn]: Martin … / Igår: Skrivit US. Idag: Har precis gjort en brnach med US-6, skapat pull request och väntar godkännande, inga hinder
 
 ## Retrospektiv
 - Start:
