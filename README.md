@@ -8,16 +8,53 @@
 [Länk till Google Kalkylark/Docs](https://docs.google.com/spreadsheets/d/1f6WZgrHfduhsx54D-oCWRu6-6wcivibhlvwQxI7smKo/edit?gid=0#gid=0)
 
 ## Sprintmål
-När sprinten är klar ska kaféets startsida visa information rörande cafeet relvant för en kund, som menyinformation, priser, wifi, kontaktinformation och aktuella erbjudanden.
+När sprinten är avslutad ska kaféets startsida presentera relevant och lättillgänglig information för kunder. Sidan ska innehålla bland annat meny och priser, information om Wi-Fi, kontaktuppgifter samt aktuella erbjudanden och kampanjer.
 
 ## Daily standups
 ### [Datum 1 - Tisdag]
--Tobias: Igår Skrev Tobias Userstories. Tobias har gjort en ny branch till sin första userstory 4, fyllt i funktjonen och väntar på en pull request / Tobias har inga hinder.
-- Kristoffer: Igår: Skrivit US. Idag: kokat kaffe, klonat repot och ska påbörja user stories, Inga hinder
-- Martin: Igår: Skrivit US. Idag: Har precis gjort en brnach med US-6, skapat pull request och väntar godkännande, inga hinder
-- Jennifer: Igår: Skrivit US. Idag: Har precis gjort en brnach med US-4, ska skapa pull request och vänta godkännande, inga hinder
+### Tobias
+- **Igår:** Skrev user stories.
+- **Idag:** Skapat en ny branch för US-4 och implementerat funktionen. Väntar på pull request.
+- **Hinder:** Inga.
+
+### Kristoffer
+- **Igår:** Skrev user stories.
+- **Idag:** Klonat repot och ska påbörja arbetet med sina user stories. Har även kokat kaffe.
+- **Hinder:** Inga.
+
+### Martin
+- **Igår:** Skrev user stories.
+- **Idag:** Skapat en branch för US-6 och skickat in en pull request. Väntar på godkännande.
+- **Hinder:** Inga.
+
+### Jennifer
+- **Igår:** Skrev user stories.
+- **Idag:** Skapat en branch för US-4 och ska skapa en pull request. Väntar på godkännande.
+- **Hinder:** Inga.
 
 ### [Datum 2 - Onsdag]
+
+# Daily Standup
+
+### Tobias
+- **Igår:** Färdigställde US-4, pushade och mergade.
+- **Idag:** Färdigställt US-5 och väntar på review.
+- **Hinder:** Inga.
+
+### Kristoffer
+- **Igår:** Färdigställde US-11, pushade och mergade.
+- **Idag:** Ska arbeta med US-12.
+- **Hinder:** Inga.
+
+### Martin
+- **Igår:** Arbetade med US-6, pushade ändringarna, skapade en egen branch och skickade in en pull request.
+- **Idag:** Ska arbeta med US-7 enligt samma arbetsflöde som igår.
+- **Hinder:** Inga.
+
+### Jennifer
+- **Igår:** Färdigställde US-2, pushade ändringarna, skapade en pull request och mergade.
+- **Idag:** Ska färdigställa US-3 enligt samma arbetsflöde.
+- **Hinder:** Inga.
 
 ### [Datum 3 - Torsdag]
 
